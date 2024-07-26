@@ -1,16 +1,14 @@
-## Hi there 👋
+**Boas vindas ao meu perfil** 👋
 
-<!--
-**rodrigosoares85/rodrigosoares85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rodrigo Soares
 
-Here are some ideas to get you started:
+- Buscando novos conhecimentos no [Alura](https:www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para organização e compartilhamneto dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contato comigo: e-mail
+
+  **rodsoares@prof.educacao.sp.gov.br**
+![](https://media.tenor.com/iOVgZCkqQ_UAAAAj/robot-dancing-o2.gif)
+
+
